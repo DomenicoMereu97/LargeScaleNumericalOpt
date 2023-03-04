@@ -1,5 +1,5 @@
 # Constrained Optimization Problem 
-This report outlines the results of minimizing a constrained optimization large scale problem. The method used to obtain the results is the projected gradient method with backtrack as a line search strategy, using Exact Derivatives and Finite Differences.
+This report outlines the results of optimizing a Large-Scale problem in box contraints. The method used to obtain the results is the projected gradient method with backtrack as a line search strategy, using Exact Derivatives and Finite Differences.
 
 Different techniques were explored. One of them was testing the effect of different contraction factors ρ on the descent rates in the backtracking algorithm. 
 
